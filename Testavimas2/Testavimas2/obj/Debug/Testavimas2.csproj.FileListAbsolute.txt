@@ -1,0 +1,10 @@
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\bin\Debug\Testavimas2.exe.config
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\bin\Debug\Testavimas2.exe
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\bin\Debug\Testavimas2.pdb
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.csprojAssemblyReference.cache
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.Form1.resources
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.Properties.Resources.resources
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.csproj.GenerateResource.cache
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.csproj.CoreCompileInputs.cache
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.exe
+E:\GitRepositories\Testavimas2\Testavimas2\Testavimas2\obj\Debug\Testavimas2.pdb

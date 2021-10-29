@@ -16,5 +16,17 @@ namespace Testavimas2
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if(button2.Text == "X")
+            {
+                button2.Text = "O";
+            }
+            else
+            {
+                button2.Text = "X";
+            }
+        }
     }
 }
