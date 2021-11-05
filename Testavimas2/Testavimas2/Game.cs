@@ -15,6 +15,7 @@ namespace Testavimas2
         public char[,] Grid { get => grid; set => grid = value; }
         public bool XTurn { get => xTurn; set => xTurn = value; }
 
+
         public delegate void GameStateUpdater(string state);
         private GameStateUpdater updateState;
 

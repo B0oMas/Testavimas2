@@ -16,6 +16,8 @@ namespace Testavimas2
         public Form1()
         {
             InitializeComponent();
+            textBox2.Hide();
+            label2.Hide();
         }
 
         private void UpdateState(string state)
@@ -70,9 +72,9 @@ namespace Testavimas2
             flowLayoutPanel1.Controls.Clear();
             flowLayoutPanel1.Enabled = true;
             int dimension = Convert.ToInt32(textBox1.Text);
-            int buttonSize = flowLayoutPanel1.Width / dimension - 15;
+            // pakeisti buttonSize jei mygtukai netolygiai issidesto
+            int buttonSize = flowLayoutPanel1.Width / dimension - 10;
             int fontSize = (int)(buttonSize * 0.25);
-            //Console.WriteLine(fontSize);
             for (int i = 0; i < dimension; i++)
             {
                 for (int j = 0; j < dimension; j++)
@@ -96,6 +98,12 @@ namespace Testavimas2
             game.SetGridValue(c.X, c.Y);
             b.Text += game.GetGridValue(c.X, c.Y);
             b.Enabled = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label2.Show();
+            textBox2.Show();
         }
     }
 
