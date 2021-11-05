@@ -1,0 +1,16 @@
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Testavimas_2_Test.dll
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Testavimas_2_Test.pdb
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\nunit.framework.dll
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Testavimas_2.exe
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Testavimas_2.pdb
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Testavimas_2.exe.config
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\bin\Debug\nunit.framework.xml
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\obj\Debug\Testavimas_2_Test.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\obj\Debug\Testavimas_2_Test.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\obj\Debug\Testavimas_2_Test.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\obj\Debug\Testavimas_2_Test.dll
+C:\Users\Lukas\Desktop\Testavimas_2-master\Testavimas_2_Test\obj\Debug\Testavimas_2_Test.pdb

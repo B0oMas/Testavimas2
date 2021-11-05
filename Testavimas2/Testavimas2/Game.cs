@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Testavimas2
 {
-    class Game
+    public class Game
     {
         private char[,] grid;
         private int winLineSize;
